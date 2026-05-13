@@ -1,0 +1,11 @@
+Description,Country,Weather,Time of Day,Season,Activity,Emotion,student_id
+"""A cliffside view of Kelingking Beach in Nusa Penida, Bali. I chose it for the relaxing, amazing view and the peaceful feeling of looking over the bright blue water.""",Indonesia,Cloudy,Afternoon,Summer,Sightseeing,Excitement,1220623
+"""Evening view of the Colosseum in Rome, glowing with lights. I chose it because it’s a famous place I’ve always wanted to see, and it makes me curious about the stories and history inside its walls.""",Italy,Not Clear,Evening,Not Clear,Sightseeing,Curiosity,1220623
+"""Morning view of the Maldives with a calm ocean and soft sunrise clouds. I chose it for the peaceful, very relaxing scene that simply makes me happy.""",Maldives,Cloudy,Morning,Spring,Relaxing,Happiness,1220623
+"""Rain falling over the Kaaba in Mecca during the evening. I chose it for its peaceful beauty and the warm, happy feeling it gives me inside.""",Saudi Arabia,Rainy,Evening,Winter,Religious/Spiritual Visit,Happiness,1220623
+"""A beautiful view of Niagara Falls in Canada with the water rushing down and touches of orange fall trees around it. I chose it because I visited before, and the magical, relaxing scene stayed with me.""",Canada,Not Clear,Afternoon,Fall,Sightseeing,Happiness,1220623
+"""Sunset view of the Pyramids of Giza with a warm golden sky. I chose it because seeing one of the world’s greatest ancient wonders at sunset feels unforgettable.""",Egypt,Sunny,Evening,Not Clear,Sightseeing,Curiosity,1220623
+"""Snowy Zermatt with the Matterhorn towering above. I chose it for the fun of skiing, the amazing view of the Alps, and the stunning winter scenery.""",Switzerland,Snowy,Afternoon,Winter,Skiing,Adventure,1220623
+"""Hot-air balloons floating over Cappadocia at sunrise. I chose it for the unique adventure experience and the magical morning landscape.""",Turkey,Sunny,Morning,Summer,Hot-air balloon ride,Excitement,1220623
+"""Rainy fall scene in Central Park with autumn trees while biking. I chose it because the fall colors and rainy atmosphere feel peaceful and nostalgic.""",USA,Rainy,Afternoon,Fall,Biking,Nostalgia,1220623
+"""Skydiving over Palm Jumeirah in Dubai. I chose it because the aerial view and adrenaline of jumping above the iconic island feel unforgettable.""",UAE,Cloudy,Afternoon,Not Clear,Skydiving,Adventure,1220623

@@ -1,0 +1,14 @@
+Description,Country,Weather,Time of Day,Season,Activity,Mood/Emotion,student_id
+"""Amesterdam's other name is Cycle city thus i chose this image of cycles on a bridge in Amsterdam""
+",Netherlands,Sunny,Morning,Summer,Cycling,Inspiration,1220060
+"""A quiet, rainy street in an old European town, lined with stone houses and autumn trees. I chose this place because it gives a peaceful, nostalgic mood""",United Kingdom,Rainy,Afternoon,Fall,City Stroll,Nostalgia,1220060
+"""A beautiful view of Keukenhof Gardens near Amsterdam . I chose this destination because it’s one of the most stunning spring gardens in the world and represents the natural beauty of the Netherlands""
+",Netherlands,Cloudy,Afternoon,Spring,Sightseeing,Calmness,1220060
+"""A charming narrow alley in a coastal town in Portugal, with colorful buildings leading to a bright view of the ocean. I chose this place because it captures the warm, peaceful vibe of Portuguese seaside villages""",Portugal,Sunny,Afternoon,Summer,Sightseeing,Curiosity,1220060
+"""A breathtaking  view of a Swiss village surrounded by colorful autumn trees. I chose this destination because Switzerland’s natural landscapes are stunning """,Switzerland,Sunny,Morning,Fall,Sightseeing,Peace,1220060
+"""A vibrant view of Chefchaouen, Morocco’s famous Blue City, with its unique blue-painted houses surrounded by mountains. I chose this place because of its colorful architecture and cultural beauty""",Morocco,Sunny,Afternoon,Summer,Sightseeing,Curiosity,1220060
+"""A stunning view of traditional Tunisian architecture with beautifully decorated domes, blue doors, and warm sunset lighting. I chose this place because Tunisia’s Mediterranean culture and historic designs are incredibly unique and inspiring""",Tunisia,Cloudy,Evening,Not Clear,Sightseeing,Inspiration,1220060
+"""A tropical beach scene in Thailand featuring traditional long-tail boats. I chose this destination because Thailand’s beaches are world-famous for their beauty and peaceful atmosphere""
+",Thailand,Sunny,Afternoon,Summer,Relaxing,Happiness,1220060
+"""A stunning aerial view of Rio de Janeiro with Sugarloaf Mountain, blue bays, and the vibrant city below. I chose this destination because Rio is one of the most iconic and scenic cities in the world""",Brazil,Sunny,Evening,Summer,Sightseeing,Adventure,1220060
+"""A beautiful  view of Mount Fuji with cherry blossoms in full bloom by the lake. I chose this destination because it is one of Japan’s most iconic and peaceful landscapes, especially during the spring season""",Japan,Sunny,Afternoon,Spring,Sightseeing,Wonder,1220060

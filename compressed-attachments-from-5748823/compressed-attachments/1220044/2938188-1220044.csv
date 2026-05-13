@@ -1,0 +1,11 @@
+Description,Country,Weather ,Time of Day,Season ,Activity,Mood/Emotion,student_id
+"Eiffel Tower in sunlight, perfect for a spring visit.",France,Sunny,Afternoon,Spring,Sightseeing,Romance,1220044
+"Sunny beach, great for relaxing and happy vibes",Greece,Sunny,Morning,Summer,Relaxing,Happiness,1220044
+sunny and relaxing by the sea,Thailand,Sunny,Afternoon,Summer,Relaxing,Happiness,1220044
+"Rainy Ubud, fun for adventure and relaxing",Bali,Rainy,Afternoon,Winter,Relaxing,Adventure,1220044
+"Morning view of Taj Mahal, very curious and beautifu",India,Not Clear,Morning,Not clear,Relaxing,Curiosity,1220044
+exciting historic place,Italy,Not Clear,Evening,Not clear,Sightseeing,Excitement,1220044
+"Canal and bridge in evening sun, romantic",Italy,Sunny,Evening,Summer,Sightseeing,Romance,1220044
+"Sunlit ancient city, fun to explore",Jordan,Sunny,Afternoon,Summer,Exploring,Curiosity,1220044
+"Galata Tower at night, lively and fun to see",turkey ,Not Clear,Evening,Summer,Exploring,Happiness,1220044
+"Snowy mountains, peaceful winter spot",Interlaken,Snowy,Afternoon,Winter,Relaxing,Happiness,1220044
